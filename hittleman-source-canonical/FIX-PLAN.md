@@ -1,10 +1,10 @@
-# Hittleman Footer Fix — Action Plan
+# Hittleman Header + Footer Fix — Action Plan
 
-## What the canonical (working) footer is
-File: `hittleman-source-canonical/footer.html` (in this repo)
-Source of truth: Drive file `hittleman-blog-FOOTER.html`, dated 2026-04-01
+## Canonical sources (in this repo)
+- `hittleman-source-canonical/header.html` — `.hh-nav` block (sticky header, mobile menu, hamburger script). Includes Substack icon as 5th social, Blog link points to `/blog` and opens in new tab.
+- `hittleman-source-canonical/footer.html` — `.hh-footer` block. Self-contained `<style>` + `<footer>`. 5 social icons including Substack. Blog link points to `/blog` and opens in new tab.
 
-Self-contained `<style>` + `<footer class="hh-footer">` block. No external CSS dependencies. Drop-in.
+Both blocks are **self-contained** (CSS inline, namespaced `.hh-*` classes) and drop-in. No external CSS dependencies beyond the Google Fonts `<link>` already in the header file.
 
 Includes:
 - Hittleman Health logo with link to home
