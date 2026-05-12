@@ -58,6 +58,24 @@ Create a folder `content/<kebab-case-slug>/` containing:
    1 Instagram caption, 3 YouTube Shorts hooks pulled verbatim or near-verbatim
    from the transcript.
 
+## Delivery rules (how Connor wants the output)
+- **Always paste every deliverable inline in the chat** in addition to
+  writing it to disk. Do not just point at file paths — Connor wants to be
+  able to copy from the chat without opening files. Use clearly labeled
+  fenced code blocks per file.
+- After pasting, commit + push to the assigned branch as usual.
+- When Connor sends a YouTube link, swap `{{YOUTUBE_URL}}` everywhere and
+  re-paste the affected files inline.
+
+## Publishing to sellersonlyagent.com
+- Connor expects the blog post to be **published** to sellersonlyagent.com,
+  not just drafted. If the publishing target / CMS is not yet configured
+  in this repo, ask once how the site is hosted (WordPress REST API,
+  Ghost, Netlify CMS, static repo, etc.) and save the answer here so
+  future episodes auto-publish.
+- Until that's wired, deliver the blog post inline and clearly state that
+  it has NOT been published yet and why.
+
 ## House style rules
 - Never invent legal advice. Always close consumer-facing pieces with a short
   disclaimer: "Educational only — not legal advice. Consult a licensed
