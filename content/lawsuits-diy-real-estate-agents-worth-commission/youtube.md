@@ -1,6 +1,6 @@
 # YouTube Publish Kit
 
-> **YouTube URL:** {{YOUTUBE_URL}} — paste here when ready.
+> **YouTube URL:** https://youtu.be/0FyJcGu7WoE
 
 ---
 

@@ -119,7 +119,7 @@ After every important verbal conversation, send a short follow-up email summariz
 
 ## Listen and watch
 
-- 🎥 **YouTube:** {{YOUTUBE_URL}}
+- 🎥 **YouTube:** https://youtu.be/0FyJcGu7WoE
 - 🎙️ **Podcast (Buzzsprout):** {{BUZZSPROUT_URL}}
 - 🌐 **More from Connor:** [sellersonlyagent.com](https://sellersonlyagent.com)
 

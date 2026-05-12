@@ -7,7 +7,7 @@ After the 2024 commission lawsuits, the #1 question I get is:
 "Is a real estate agent still worth it?"
 
 Honest answer from 28 years in the business 👇
-{{YOUTUBE_URL}}
+https://youtu.be/0FyJcGu7WoE
 
 **2.**
 The single best protection move in any real estate deal:
@@ -21,7 +21,7 @@ California sellers complete 42+ disclosures on a standard resale.
 You CAN do that yourself.
 The question is whether you want to.
 
-New episode → {{YOUTUBE_URL}}
+New episode → https://youtu.be/0FyJcGu7WoE
 
 ---
 
@@ -35,7 +35,7 @@ In my latest Sellers Only Agent™ episode, I walk through what actually changed
 
 28 years in California real estate. 20 years LAPD before that. Same lesson: protect the consumer, document the process.
 
-▶️ Watch: {{YOUTUBE_URL}}
+▶️ Watch: https://youtu.be/0FyJcGu7WoE
 🌐 sellersonlyagent.com
 
 ---

@@ -38,7 +38,7 @@ I'm a sellers-only agent in California. If you're thinking about
 selling, that's what I do — all day, every day.
 
 🌐  https://sellersonlyagent.com
-▶️  YouTube: {{YOUTUBE_URL}}
+▶️  YouTube: https://youtu.be/0FyJcGu7WoE
 
 Educational only — not legal advice. Consult a licensed professional for
 your specific situation.
@@ -70,7 +70,7 @@ commissions are negotiable — on both sides of the deal.</p>
 <p>I'm a sellers-only agent in California — that's all I do.</p>
 
 <p>🌐 <a href="https://sellersonlyagent.com">sellersonlyagent.com</a><br>
-▶️ <a href="{{YOUTUBE_URL}}">Watch on YouTube</a></p>
+▶️ <a href="https://youtu.be/0FyJcGu7WoE">Watch on YouTube</a></p>
 
 <p><em>Educational only — not legal advice. Consult a licensed
 professional for your specific situation.</em></p>
