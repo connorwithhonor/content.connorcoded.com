@@ -54,11 +54,18 @@
     "addressCountry": "US"
   },
   "geo": {"@type":"GeoCoordinates","latitude":34.4365,"longitude":-118.5634},
-  "openingHoursSpecification": [{
-    "@type":"OpeningHoursSpecification",
-    "dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],
-    "opens":"09:00","closes":"18:00"
-  }],
+  "openingHoursSpecification": [
+    {
+      "@type":"OpeningHoursSpecification",
+      "dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],
+      "opens":"09:00","closes":"19:30"
+    },
+    {
+      "@type":"OpeningHoursSpecification",
+      "dayOfWeek":["Saturday","Sunday"],
+      "opens":"09:00","closes":"16:00"
+    }
+  ],
   "areaServed": [
     {"@type":"City","name":"Valencia"},
     {"@type":"City","name":"Santa Clarita"},
@@ -1290,7 +1297,7 @@
 <div class="top-bar">
   <div class="top-bar-inner">
     <span>Licensed Health &amp; Life Insurance Broker · CA License #4410609 · Serving Santa Clarita &amp; Valencia</span>
-    <span>Office Hours: Mon-Fri 9a-6p · <a href="tel:+16613130570">(661) 313-0570</a></span>
+    <span>Office Hours: Mon-Fri 9a-7:30p · Sat-Sun 9a-4p · <a href="tel:+16613130570">(661) 313-0570</a></span>
   </div>
 </div>
 
@@ -1728,7 +1735,7 @@
           <li><a href="mailto:andreastanleyins@gmail.com">andreastanleyins@gmail.com</a></li>
           <li>27240 Turnberry Ln, Suite 200</li>
           <li>Valencia, CA 91355</li>
-          <li>Mon-Fri 9a-6p</li>
+          <li>Mon-Fri 9a-7:30p · Sat-Sun 9a-4p</li>
         </ul>
       </div>
     </div>
