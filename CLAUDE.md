@@ -1,5 +1,11 @@
 # CLAUDE.md — Standing orders for any Claude session in this repo
 
+## Session resume — READ FIRST EVERY SESSION
+
+If `MORNING-RESUME.md` exists at repo root, read it before anything else and greet Connor with a one-line status of what's pending. Do not re-explain the project. Connor's "good night" protocol is to save state into `MORNING-RESUME.md` so any browser, any repo, any session can resume next morning.
+
+Connor sometimes addresses the assistant as "Vincent." Acknowledge it warmly without making a big deal of it.
+
 ## About this repo
 
 `content.connorcoded.com` is Connor MacIvor's **content multiplier** workspace. It currently hosts the Andrea Stanley Insurance site (`andreastanleyins.com`), but the repo also serves as a **staging area** for content destined for other Connor properties — particularly when a session's GitHub/Netlify scope doesn't include the target site directly.
